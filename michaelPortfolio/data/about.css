@@ -1,0 +1,68 @@
+@CHARSET "ISO-8859-1";
+	
+	a:link {
+		color: 				#cfe2c7;
+		font-family: 		Agency FB;
+	}
+	a:visited {
+		color: 				#cfe2c7;
+	}
+	body {
+		background-color: 	#9ec78d;
+		font-family:      	Georgia, "Times New Roman", Times, serif;
+		font-size:        	small;
+		margin:           	0px;	
+	}
+	h1 {
+		background-color:   #cfe2c7;
+		color: 				#515f69;
+		font-family: 		Agency FB;
+		font-size: 			300%;
+		margin: 			0px;
+		padding: 			10px;
+		text-align: 		center;
+	}
+	#allcontent {
+		background-color: 	#416332;
+		margin-left: 		auto;
+		margin-right: 		auto;
+		padding-top: 		5px;
+		padding-bottom: 	5px;
+		width: 				850px;
+	}
+	#header {
+		float: 				right;
+		padding: 			10px;
+	}
+	#navbar {
+		font-size: 			300%;
+		height: 			205px;
+		margin: 			5px;
+		padding:  			0px 20px;
+	}
+	#about {
+		background:       	#cfe2c7 url('images/fibonaccisparal2.gif'') center;
+		background-color:   #cfe2c7;
+		border-style: 		outset;
+		color: 				#416332;
+		font-family: 		Browallia New;
+		font-size:        	200%;
+		margin:           	10px;
+		padding:          	10px;
+	}
+	#contact {
+		background-color: 	#416332;
+		color: 				#cfe2c7;
+		font-size:        	90%;
+		margin:           	10px;
+		padding:          	15px;
+		text-align:       	center;
+	}
+	#footer {
+		background-color: 	#416332;
+		color: 				#cfe2c7;
+		font-size:        	90%;
+		margin:           	10px;
+		padding:          	15px;
+		text-align:       	center;
+	}	

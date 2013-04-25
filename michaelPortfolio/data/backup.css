@@ -1,0 +1,67 @@
+@CHARSET "ISO-8859-1";
+			body {
+					font-size: small;
+					font-family: Verdana, Helvetica, Arial, sans-serif;
+					line-height: 1.6em;
+			}
+			h1, h2 {
+					color: #15d2bd;
+			}
+			h1 {
+					font-size: 150%;
+			}
+			h2 {
+					font-size: 130%;
+			}
+			p {
+					color: maroon;
+			}
+			em {
+					font-family: serif;
+			}
+			#navbar {
+     				text-align: left;
+     				font: large Verdana, Helvetica, Arial, sans-serif;
+     				margin: 20px 0px 0px 525px;
+     				padding: 30px 100px;
+     				float: left;
+			}
+			#logo {
+					text-align: right;
+					margin: 20px;
+			}
+			#mission {
+					line-height: 1.9em;
+					font-style: italic;
+					font-family: Georgia, "Times New Roman", Times, serif;
+					color: #444444;
+					border-color: black;
+					border-width: 1px;
+					border-style: solid;
+					background-color: #26d9b5;
+					padding: 25px;
+					padding-left: 80px;	
+					margin: 30px;
+					margin-right: 250px;
+					background-image: url(images/background.gif);
+					background-repeat: no-repeat;
+					background-position: top left;
+			}
+			a {
+					color: #032b15;
+					margin: 25px;
+			}
+			a:hover {
+					color: #b9f7ff;
+			}
+			#footer {
+					font-size: 50%;
+					text-align: center;
+					line-height: normal;
+					margin-top: 30px;
+			}
+			#name {
+					color: #15d2bd;
+					text-align: center;
+					font-size: 200%;
+			}
